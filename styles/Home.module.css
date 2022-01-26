@@ -1,5 +1,11 @@
 .container {
   padding: 0 2rem;
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  justify-content: center;
+  flex-direction: column;
+  gap: 5px;
 }
 
 .main {
